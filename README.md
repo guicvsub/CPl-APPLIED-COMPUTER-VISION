@@ -1,8 +1,11 @@
 # CP l - APPLIED COMPUTER VISION
 
+
+**NOME:** Guilherme Santiago Da silva 
+
 **RM:** 552321
 
-**Repositório:** [github.com/guicvsub/CPl-APPLIED-COMPUTER-VISION](https://github.com/guicvsub/CPl-APPLIED-COMPUTER-VISION)
+
 
 ## Descrição
 
@@ -12,7 +15,7 @@ O projeto aplica os filtros `Blur` e `GaussianBlur` em uma imagem. Depois, utili
 
 ## Arquivos
 
-- `atvidade_vc_revisada.ipynb`: notebook com o código da atividade.
+- `CP1 - APPLIED COMPUTER VISION`: notebook com o código da atividade.
 - `lenna.jpg`: imagem utilizada no processamento.
 
 ## Como executar no VS Code
@@ -27,7 +30,7 @@ git clone https://github.com/guicvsub/CPl-APPLIED-COMPUTER-VISION.git
 
 3. Instale a extensão **Jupyter** no VS Code.
 
-4. Abra o arquivo `atvidade_vc_revisada.ipynb`.
+4. Abra o arquivo `CP1 - APPLIED COMPUTER VISION`.
 
 5. Selecione um kernel Python no canto superior direito do notebook.
 
