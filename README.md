@@ -1,6 +1,6 @@
 # CP l - APPLIED COMPUTER VISION
 
-**RM:** preencher com o RM
+**RM:** 552321
 
 **Repositório:** [github.com/guicvsub/CPl-APPLIED-COMPUTER-VISION](https://github.com/guicvsub/CPl-APPLIED-COMPUTER-VISION)
 
@@ -39,7 +39,7 @@ A imagem `lenna.jpg` deve permanecer na mesma pasta do notebook, na raiz do repo
 
 Também é possível abrir o notebook diretamente pelo Google Colab:
 
-[ Abrir notebook no Google Colab ](https://colab.research.google.com/github/guicvsub/CPl-APPLIED-COMPUTER-VISION/blob/main/atvidade_vc_revisada.ipynb)
+[ Abrir notebook no Google Colab ](https://colab.research.google.com/drive/1XKu7uHha_MjQWl3FowS40Lky8Vl0ZQlm?usp=sharing)
 
 Depois de abrir o notebook, envie o arquivo `lenna.jpg` para o ambiente do Colab e execute as células em ordem.
 
